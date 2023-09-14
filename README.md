@@ -1,6 +1,8 @@
-# Projeto de Aplicativo Full Stack com Next.js e MERN
+# Threads clone
 
 ![Logo do Projeto](public/logo.svg)
+
+O Theads clone é um projeto pessoal utilizado para aprendizados.
 
 ## Tecnologias Usadas
 
